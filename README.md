@@ -2,9 +2,6 @@
 
 A modern, web-based Hotel Management System built with Python and Streamlit. This application provides a user-friendly interface for managing hotel rooms, customers, and bookings, complete with a performance dashboard and reporting features.
 
-![Hotel Management System Screenshot](https://user-images.githubusercontent.com/1011226/150678329-5f40c482-1a3b-439a-9b5f-f3a3399b13c3.png)
-_(Note: The screenshot is a placeholder and should be replaced with an actual screenshot of your application.)_
-
 ---
 
 ## ✨ Features
