@@ -40,8 +40,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repository-url>
-   cd <repository-folder-name>
+   git clone https://github.com/AliGohar2151/hotel-management-system
+   cd hotel-management-system
    ```
 2. **Install the required packages:**
    ```sh
